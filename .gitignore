@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# here's an update in the .gitignore file, as per instruction #2!
+
+
 # Session Data files
 .RData
 
